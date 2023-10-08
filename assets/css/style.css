@@ -148,7 +148,7 @@ main {
     padding-top: 20px;
 }
 
-#what-to {
+#what-to-section {
     margin-bottom: 20px;
 }
 
@@ -174,8 +174,6 @@ main {
     max-width: 300px;
     max-height: 300px;
 }
-
-
 
 /*Footer CSS*/
 #networks {
@@ -241,9 +239,32 @@ main {
         }
 }
 
-/*Media Query for screen larger than 992px*/
+/*Media Query for screens larger than 992px*/
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
+}
+
+/*Media Query for screens larger than 1200px*/
+@media screen and (min-width: 1200px) {
+
+    #intro-container {
+        margin: 5%;
+    }
+
+        #what-to-section {
+            margin: 5%;
+            display: flex;
+            justify-content: space-between;
+        }
+    
+        .group {
+            flex-basis: 31%;
+            background: #fff3f3;
+            border-radius: 10px;
+            margin-bottom: 5%;
+            padding: 20px 12px;
+            box-sizing: border-box;
+        }
 }
