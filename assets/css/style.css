@@ -349,6 +349,29 @@ footer {
         #cover-text>p {
             font-size: 100%;
         }
+
+        /*Contact Us*/
+        /*Form*/
+        #sign-up {
+            background-position: center;
+            position: relative;
+        }
+
+        #signup-form {
+            max-width: 420px;
+            position: absolute;
+            left: 10%;
+            top: 80px;
+        }
+
+        .text-input:hover {
+            border-color: #dfa9a9;
+        }
+
+        .join-button:hover {
+            border-color: #dfa9a9;
+            background-color: #dfa9a9;
+        }
 }
 
 /*Media Query for screens larger than 992px*/
