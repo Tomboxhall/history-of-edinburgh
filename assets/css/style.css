@@ -212,6 +212,23 @@ background-color: #3a3a3a48;
     text-align: center;
 }
 
+/*About Us*/
+
+#about {
+    width: 95%;
+    margin: 20px auto;
+}
+
+#about h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 160%;
+}
+
+#about p {
+    text-align: center;
+}
+
 /*Footer CSS*/
 #networks {
     text-align: center;
