@@ -283,12 +283,23 @@ footer {
     padding: 0 5px;
 }
 
+.email_address {
+    background: #fff3f3;
+}
+
 .radio-buttons {
     width: 40%;
     display: flex;
     justify-content: space-between;
     margin-bottom: 5%;
     margin-top: 5%;
+}
+
+.join-button {
+    border-radius: 2px;
+    padding: 10px 25px;
+    font-size: 100%;
+    background-color: #fff3f3;
 }
 
 /*Media Query for Screen sizes 768px and Up*/
