@@ -145,7 +145,6 @@ main {
 }
 
 #info-container {
-    border: 1px solid black;
     text-align: center;
     padding-top: 20px;
 }
@@ -155,7 +154,12 @@ main {
 }
 
 #box1, #box2, #box3 {
-    border: 1px solid black;
+    flex-basis: 31%;
+    background: #fff3f3;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
 }
 
 /*Footer CSS*/
