@@ -144,7 +144,19 @@ main {
     font-size: 110%;
 }
 
+#info-container {
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 20px;
+}
 
+#what-to {
+    margin-bottom: 20px;
+}
+
+#box1, #box2, #box3 {
+    border: 1px solid black;
+}
 
 /*Footer CSS*/
 #networks {
