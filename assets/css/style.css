@@ -12,3 +12,17 @@ body {
     font-family: 'Young Serif', serif;
 }
 
+/*Header CSS*/
+header {
+    background-color: aquamarine;
+}
+
+/*Main CSS*/
+main {
+    background-color: lightcoral;
+}
+
+/*Footer CSS*/
+footer {
+    background-color: lightgreen;
+}
