@@ -175,6 +175,28 @@ main {
     max-height: 300px;
 }
 
+hr {
+    border: 2px solid #3a3a3a;
+    margin-top: 5%;
+}
+
+/*Historical Attractions*/
+#attractions {
+    width: 95%;
+    margin: 20px auto;
+}
+
+#attractions h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 160%;
+}
+
+#attractions p {
+    text-align: center;
+    font-size: 110%;
+}
+
 /*Footer CSS*/
 #networks {
     text-align: center;
