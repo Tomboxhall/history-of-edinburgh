@@ -8,8 +8,15 @@
     box-sizing: border-box;
 }
 
+/*General Body Styles*/
 body {
     font-family: 'Young Serif', serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /*Generic Project Styles*/
+    color: #3a3a3a;
+
 }
 
 /*Header CSS*/
@@ -20,6 +27,8 @@ header {
 /*Main CSS*/
 main {
     background-color: lightcoral;
+    /*Make main element take up any excess space*/
+    flex: 1 0 auto;
 }
 
 /*Footer CSS*/
