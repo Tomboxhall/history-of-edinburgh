@@ -160,11 +160,22 @@ main {
 }
 
 #intro-image {
-    background: url("../images/intro-image.webp") no-repeat center center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#intro-image-bg {
+    background: url("../images/intro-image.webp") no-repeat top center/cover;
     width: 90vw;
     height: 90vw;
     margin-bottom: 20px;
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
 }
+
+
 
 /*Footer CSS*/
 #networks {
