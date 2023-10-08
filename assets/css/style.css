@@ -121,7 +121,14 @@ footer {
         display: none;
     }
 
+    #logo {
+        font-size: 200%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+
+    /*Main Content*/
     main {
-        margin-top: 58px;
+        margin-top: 75px;
     }
 }
