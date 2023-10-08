@@ -128,9 +128,8 @@ main {
 
 /*Introduction Section*/
 #intro-container {
-    width: 90%;
+    width: 95%;
     margin: 20px auto;
-    border: 1px solid black;
 }
 
 #intro-container h2 {
@@ -154,12 +153,17 @@ main {
 }
 
 #box1, #box2, #box3 {
-    flex-basis: 31%;
     background: #fff3f3;
     border-radius: 10px;
     margin-bottom: 5%;
     padding: 20px 12px;
-    box-sizing: border-box;
+}
+
+#intro-image {
+    background: url("../images/intro-image.webp") no-repeat center center/cover;
+    width: 90vw;
+    height: 90vw;
+    margin-bottom: 20px;
 }
 
 /*Footer CSS*/
