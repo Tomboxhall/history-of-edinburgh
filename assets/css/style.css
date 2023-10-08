@@ -30,7 +30,7 @@ h3 {
 
 /*Header CSS*/
 header {
-    background-color: #ffffff;
+    background-color: #fff3f3;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -127,9 +127,11 @@ main {
 }
 
 /*Introduction Section*/
+
 #intro-container {
     width: 95%;
     margin: 20px auto;
+    background-color: #3a3a3a48;
 }
 
 #intro-container h2 {
@@ -181,6 +183,11 @@ hr {
 }
 
 /*Historical Attractions*/
+
+#attr-bg {
+background-color: #3a3a3a48;
+}
+
 #attractions {
     width: 95%;
     margin: 20px auto;
@@ -218,6 +225,10 @@ hr {
     font-size: 160%;
     padding: 5%;
     color: #3a3a3a;
+}
+
+footer {
+    background-color: #fff3f3;
 }
 
 /*Media Query for Screen sizes 768px and Up*/
