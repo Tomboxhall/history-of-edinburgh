@@ -17,7 +17,15 @@ body {
     flex-direction: column;
     /*Generic Project Styles*/
     color: #3a3a3a;
+}
 
+h1,
+h2,
+h3 {
+    font-family: 'Young Serif' sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
 }
 
 /*Header CSS*/
@@ -36,13 +44,6 @@ header {
 header>a {
     text-decoration: none;
     color: inherit;
-}
-
-h1 {
-    font-family: 'Young Serif' sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #252525;
 }
 
 #menu {
@@ -97,6 +98,32 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/Hero-image2.webp") no-repeat center center/cover;
+    position: relative;
+}
+
+#cover-text {
+    width: 90%;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background-color: #3b363662;
+}
+
+#cover-text>h2,
+#cover-text>p {
+    color: #fff;
+}
+
+#cover-text>h2 {
+    padding-bottom: 20px;
+    font-size: 110%;
+}
+
+#cover-text>p {
+    font-size: 90%;
 }
 
 /*Footer CSS*/
@@ -148,6 +175,19 @@ main {
     main {
         margin-top: 75px;
     }
+
+    /*Hero cover text*/
+        #cover-text {
+            width: 500px;
+        }
+
+        #cover-text>h2 {
+            font-size: 120%;
+        }
+
+        #cover-text>p {
+            font-size: 100%;
+        }
 }
 
 /*Media Query for screen larger than 992px*/
