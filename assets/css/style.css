@@ -261,6 +261,16 @@ footer {
     flex-grow: 1;
 }
 
+#sign-up h2 {
+    color: #ffffff;
+}
+
+#signup-form {
+    color: #ffffff;
+    background-color: rgba(60, 60, 60, 0.6);
+    padding: 30px;
+}
+
 /*Media Query for Screen sizes 768px and Up*/
 @media screen and (min-width: 768px) {
 
