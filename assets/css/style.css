@@ -51,7 +51,7 @@ h1 {
     list-style-type: none;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 1em;
 }
 
@@ -65,7 +65,7 @@ nav {
     background-color: #ffffff;
     width: 100%;
     left: 0;
-    padding: 0 1rem; 
+    padding: 0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
     display: none;
     top: 100%;
@@ -87,10 +87,16 @@ nav {
 
 /*Main CSS*/
 main {
-    background-color: lightcoral;
     /*Make main element take up any excess space*/
     flex: 1 0 auto;
     margin-top: 47px;
+}
+
+/*Hero Section*/
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/Hero-image2.webp") no-repeat center center/cover;
 }
 
 /*Footer CSS*/
@@ -105,12 +111,12 @@ main {
 #networks i {
     font-size: 160%;
     padding: 5%;
-    color: #3a3a3a;    
+    color: #3a3a3a;
 }
-
 
 /*Media Query for Screen sizes 768px and Up*/
 @media screen and (min-width: 768px) {
+
     /*Header*/
     nav {
         display: block;
@@ -124,7 +130,7 @@ main {
         display: flex;
     }
 
-    #menu > li {
+    #menu>li {
         padding-left: 1rem;
     }
 
