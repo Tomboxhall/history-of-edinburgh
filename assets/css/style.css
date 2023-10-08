@@ -63,7 +63,7 @@ header>a {
 /*Navbar Styles*/
 nav {
     position: absolute;
-    background-color: #ffffff;
+    background-color: #fff3f3;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -217,6 +217,7 @@ background-color: #3a3a3a48;
 #about {
     width: 95%;
     margin: 20px auto;
+    display: flex;
 }
 
 #about h2 {
