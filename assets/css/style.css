@@ -197,6 +197,14 @@ hr {
     font-size: 110%;
 }
 
+#attr-row {
+    margin: 5%;
+}
+
+#attr-row h3 {
+    text-align: center;
+}
+
 /*Footer CSS*/
 #networks {
     text-align: center;
@@ -297,4 +305,4 @@ hr {
             float: left;
             padding-top: 5%;
         }
-}
+ }
