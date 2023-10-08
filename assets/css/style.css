@@ -289,4 +289,12 @@ hr {
             padding: 20px 12px;
             box-sizing: border-box;
         }
+
+        #attr-col {
+            display: flex;
+            flex-basis: 31%;
+            justify-content: space-between;
+            float: left;
+            padding-top: 5%;
+        }
 }
