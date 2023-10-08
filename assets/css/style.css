@@ -90,6 +90,7 @@ main {
     background-color: lightcoral;
     /*Make main element take up any excess space*/
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 /*Footer CSS*/
