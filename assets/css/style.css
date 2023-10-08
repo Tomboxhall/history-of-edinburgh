@@ -126,6 +126,26 @@ main {
     font-size: 90%;
 }
 
+/*Introduction Section*/
+#intro-container {
+    width: 90%;
+    margin: 20px auto;
+    border: 1px solid black;
+}
+
+#intro-container h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 160%;
+}
+
+#intro-container p {
+    text-align: center;
+    font-size: 110%;
+}
+
+
+
 /*Footer CSS*/
 #networks {
     text-align: center;
