@@ -250,6 +250,28 @@ background-color: #3a3a3a48;
     align-self: center;
 }
 
+.history-img {
+    width: 250px;
+    height: 250px;
+}
+
+#img-1 {
+    background: url("../images/medieval.webp") no-repeat center center;
+    background-size: cover;
+}
+
+#img-2 {
+
+}
+
+#img-3 {
+
+}
+
+#img-4 {
+
+}
+
 
 
 /*Footer CSS*/
