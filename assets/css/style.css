@@ -280,6 +280,10 @@ background-color: #3a3a3a48;
     text-align: center;
 }
 
+#history-container h2 {
+    padding-bottom: 10px;
+}
+
 .history-text {
     line-height: 170%;
 }
