@@ -232,6 +232,13 @@ background-color: #3a3a3a48;
     text-align: center;
 }
 
+/*History Page*/
+#history {
+    padding: 3em 0;
+}
+
+
+
 /*Footer CSS*/
 #networks {
     text-align: center;
