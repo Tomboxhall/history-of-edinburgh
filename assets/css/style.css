@@ -434,6 +434,12 @@ footer {
             border-color: #dfa9a9;
             background-color: #dfa9a9;
         }
+
+        /*History Page*/
+        #history-container {
+            grid-template-columns: repeat(2, minmax(7.75em, 28em));
+            gap: 3em;
+        }
 }
 
 /*Media Query for screens larger than 992px*/
