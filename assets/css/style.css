@@ -239,6 +239,7 @@ background-color: #3a3a3a48;
 
 #history h1 {
     text-align: center;
+    padding-top: 1.5em;
 }
 
 .img-frame {
@@ -276,7 +277,7 @@ background-color: #3a3a3a48;
     display: grid;
     gap: 2em;
     width: 90%;
-    padding: 1em 0;
+    padding: 3em 0;
     text-align: center;
 }
 
@@ -440,6 +441,7 @@ footer {
             grid-template-columns: repeat(2, minmax(7.75em, 28em));
             gap: 3em;
         }
+
 }
 
 /*Media Query for screens larger than 992px*/
@@ -477,5 +479,12 @@ footer {
             justify-content: space-between;
             float: left;
             padding-top: 5%;
+        }
+
+        /*History Page*/
+        #history-container {
+            grid-template-columns: repeat(2, minmax(7.75em, 28em));
+            gap: 4em;
+            justify-content: center;
         }
  }
