@@ -239,7 +239,6 @@ background-color: #3a3a3a48;
 
 #history h1 {
     text-align: center;
-    padding-top: 1.5em;
 }
 
 .img-frame {
@@ -440,6 +439,10 @@ footer {
         #history-container {
             grid-template-columns: repeat(2, minmax(7.75em, 28em));
             gap: 3em;
+        }
+
+        #history h1 {
+            padding-top: 0;
         }
 
 }
