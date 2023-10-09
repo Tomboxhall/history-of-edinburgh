@@ -266,7 +266,8 @@ background-color: #3a3a3a48;
 }
 
 #img-3 {
-
+    background: url("../images/18th.webp") no-repeat center center;
+    background-size: cover;
 }
 
 #img-4 {
