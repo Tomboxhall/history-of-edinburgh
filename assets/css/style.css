@@ -237,6 +237,14 @@ background-color: #3a3a3a48;
     padding: 3em 0;
 }
 
+#history-container {
+    margin: 0 auto;
+    display: grid;
+    gap: 2em;
+    width: 90%;
+    padding: 1em 0;
+}
+
 
 
 /*Footer CSS*/
