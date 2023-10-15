@@ -152,7 +152,7 @@ main {
 
 #intro-container p {
     text-align: center;
-    font-size: 110%;
+    font-size: 90%;
 }
 
 #info-container {
@@ -216,6 +216,11 @@ hr {
     padding-top: 10px;
     padding-bottom: 10px;
     text-decoration: underline;
+    background-color: #9d76c1;
+}
+
+#attr-container p {
+    background-color: #9d76c1;
 }
 
 .attr-text {
@@ -287,8 +292,16 @@ hr {
     padding: 3em 0;
 }
 
+#history p {
+    background-color: #e5cff7;
+}
+
 #history h1 {
     text-align: center;
+}
+
+#history h2 {
+    background-color: #9d76c1;
 }
 
 .img-frame {
@@ -494,6 +507,7 @@ footer {
 
     #history h1 {
         padding-top: 0;
+        color: #3a3a3a;
     }
 
 }
@@ -527,12 +541,14 @@ footer {
         box-sizing: border-box;
     }
 
-    #attr-col {
+    #attractions {
+        width: 95%;
+    }
+
+    #attr-container {
         display: flex;
-        flex-basis: 31%;
-        justify-content: space-between;
-        float: left;
-        padding-top: 5%;
+        flex-basis: auto;
+        justify-content: space-around;
     }
 
     /*History Page*/
