@@ -190,6 +190,11 @@ hr {
 background-color: #3a3a3a48;
 }
 
+.index-img {
+    width: 250px;
+    height: 300px;
+}
+
 #attractions {
     width: 95%;
     margin: 20px auto;
@@ -251,22 +256,22 @@ background-color: #3a3a3a48;
     height: 250px;
 }
 
-#img-1 {
+#img-4 {
     background: url("../images/medieval.webp") no-repeat center center;
     background-size: cover;
 }
 
-#img-2 {
+#img-5 {
     background: url("../images/16_17th.webp") no-repeat center center;
     background-size: cover;
 }
 
-#img-3 {
+#img-6 {
     background: url("../images/18th.webp") no-repeat center center;
     background-size: cover;
 }
 
-#img-4 {
+#img-7 {
     background: url("../images/19th.webp") no-repeat center center;
     background-size: cover;
 }
