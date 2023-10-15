@@ -348,6 +348,8 @@ hr {
 
 #history-container h2 {
     padding-bottom: 10px;
+    padding-top: 10px;
+    color: #ffffff;
 }
 
 .history-text {
