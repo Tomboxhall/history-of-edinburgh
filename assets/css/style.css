@@ -160,6 +160,12 @@ main {
     padding-top: 20px;
 }
 
+#info-container h3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: underline;
+}
+
 #what-to-section {
     margin-bottom: 20px;
 }
@@ -204,6 +210,12 @@ hr {
     padding: 3em 0;
     text-align: center;
     background-color: #E5CFF7;
+}
+
+#attr-container h3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: underline;
 }
 
 .attr-text {
@@ -343,11 +355,11 @@ hr {
 #networks i {
     font-size: 160%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #ffffff;
 }
 
 footer {
-    background-color: #fff3f3;
+    background-color: #5b0888;
 }
 
 /*Contact Section*/
