@@ -65,11 +65,10 @@ header>a {
 /*Navbar Styles*/
 nav {
     position: absolute;
-    background-color: #9D76c1;
+    background-color: #9d76c1b9;
     width: 100%;
     left: 0;
     padding: 0 1rem;
-    box-shadow: 0 2px 2px #3a3a3a;
     display: none;
     top: 100%;
 }
@@ -121,12 +120,12 @@ main {
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    background-color: #3b363662;
+    background-color: #e5cff7a4;
 }
 
 #cover-text>h2,
 #cover-text>p {
-    color: #fff;
+    color: #3a3a3a;
 }
 
 #cover-text>h2 {
