@@ -217,6 +217,8 @@ hr {
     padding-bottom: 10px;
     text-decoration: underline;
     background-color: #9d76c1;
+    color: #ffffff;
+    letter-spacing: 2px;
 }
 
 #attr-container p {
