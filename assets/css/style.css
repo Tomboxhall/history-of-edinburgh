@@ -186,14 +186,40 @@ hr {
 
 /*Historical Attractions*/
 
-#attr-bg {
-background-color: #3a3a3a48;
+#attr-container {
+    margin: 0 auto;
+    display: grid;
+    gap: 2em;
+    width: 90%;
+    padding: 3em 0;
+    text-align: center;
 }
 
-.index-img {
-    width: 250px;
-    height: 300px;
+.attr-text {
+    line-height: 170%;
 }
+
+.img-frame {
+    justify-self: center;
+    align-self: center;
+}
+
+.attr-img {
+
+}
+
+#img-1 {
+
+}
+
+#img-2 {
+
+}
+
+#img-3 {
+
+}
+
 
 #attractions {
     width: 95%;
@@ -209,15 +235,6 @@ background-color: #3a3a3a48;
 #attractions p {
     text-align: center;
     font-size: 110%;
-}
-
-#attr-row {
-    margin: 5%;
-}
-
-#attr-row h3 {
-    text-align: center;
-}
 
 /*About Us*/
 
