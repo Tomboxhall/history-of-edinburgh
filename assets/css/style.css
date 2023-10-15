@@ -234,6 +234,7 @@ hr {
 .img-frame {
     justify-self: center;
     align-self: center;
+    border: 2px solid #3a3a3a;
 }
 
 .attr-img {
