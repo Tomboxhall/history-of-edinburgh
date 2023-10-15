@@ -156,7 +156,9 @@ main {
     margin-bottom: 20px;
 }
 
-#box1, #box2, #box3 {
+#box1,
+#box2,
+#box3 {
     background: #fff3f3;
     border-radius: 10px;
     margin-bottom: 5%;
@@ -205,19 +207,23 @@ hr {
 }
 
 .attr-img {
-
+    width: 300px;
+    height: 400px;
 }
 
 #img-1 {
-
+    background: url("../images/castle.webp") no-repeat center center;
+    background-size: cover;
 }
 
 #img-2 {
-
+    background: url("../images/museum.webp") no-repeat center center;
+    background-size: cover;
 }
 
 #img-3 {
-
+    background: url("../images/old-streets.webp") no-repeat center center;
+    background-size: cover;
 }
 
 
@@ -235,6 +241,7 @@ hr {
 #attractions p {
     text-align: center;
     font-size: 110%;
+}
 
 /*About Us*/
 
@@ -422,50 +429,50 @@ footer {
     }
 
     /*Hero cover text*/
-        #cover-text {
-            width: 500px;
-        }
+    #cover-text {
+        width: 500px;
+    }
 
-        #cover-text>h2 {
-            font-size: 120%;
-        }
+    #cover-text>h2 {
+        font-size: 120%;
+    }
 
-        #cover-text>p {
-            font-size: 100%;
-        }
+    #cover-text>p {
+        font-size: 100%;
+    }
 
-        /*Contact Us*/
-        /*Form*/
-        #sign-up {
-            background-position: center;
-            position: relative;
-        }
+    /*Contact Us*/
+    /*Form*/
+    #sign-up {
+        background-position: center;
+        position: relative;
+    }
 
-        #signup-form {
-            max-width: 420px;
-            position: absolute;
-            left: 10%;
-            top: 80px;
-        }
+    #signup-form {
+        max-width: 420px;
+        position: absolute;
+        left: 10%;
+        top: 80px;
+    }
 
-        .text-input:hover {
-            border-color: #dfa9a9;
-        }
+    .text-input:hover {
+        border-color: #dfa9a9;
+    }
 
-        .join-button:hover {
-            border-color: #dfa9a9;
-            background-color: #dfa9a9;
-        }
+    .join-button:hover {
+        border-color: #dfa9a9;
+        background-color: #dfa9a9;
+    }
 
-        /*History Page*/
-        #history-container {
-            grid-template-columns: repeat(2, minmax(7.75em, 28em));
-            gap: 3em;
-        }
+    /*History Page*/
+    #history-container {
+        grid-template-columns: repeat(2, minmax(7.75em, 28em));
+        gap: 3em;
+    }
 
-        #history h1 {
-            padding-top: 0;
-        }
+    #history h1 {
+        padding-top: 0;
+    }
 
 }
 
@@ -483,33 +490,33 @@ footer {
         margin: 5%;
     }
 
-        #what-to-section {
-            margin: 5%;
-            display: flex;
-            justify-content: space-between;
-        }
-    
-        .group {
-            flex-basis: 31%;
-            background: #fff3f3;
-            border-radius: 10px;
-            margin-bottom: 5%;
-            padding: 20px 12px;
-            box-sizing: border-box;
-        }
+    #what-to-section {
+        margin: 5%;
+        display: flex;
+        justify-content: space-between;
+    }
 
-        #attr-col {
-            display: flex;
-            flex-basis: 31%;
-            justify-content: space-between;
-            float: left;
-            padding-top: 5%;
-        }
+    .group {
+        flex-basis: 31%;
+        background: #fff3f3;
+        border-radius: 10px;
+        margin-bottom: 5%;
+        padding: 20px 12px;
+        box-sizing: border-box;
+    }
 
-        /*History Page*/
-        #history-container {
-            grid-template-columns: repeat(2, minmax(7.75em, 28em));
-            gap: 4em;
-            justify-content: center;
-        }
- }
+    #attr-col {
+        display: flex;
+        flex-basis: 31%;
+        justify-content: space-between;
+        float: left;
+        padding-top: 5%;
+    }
+
+    /*History Page*/
+    #history-container {
+        grid-template-columns: repeat(2, minmax(7.75em, 28em));
+        gap: 4em;
+        justify-content: center;
+    }
+}
