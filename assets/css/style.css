@@ -19,18 +19,20 @@ body {
     color: #3a3a3a;
 }
 
-h1,
-h2,
-h3 {
+h1 {
     font-family: 'Young Serif' sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #252525;
+    color: #ffffff;
+}
+
+h2 {
+    text-align: center;
 }
 
 /*Header CSS*/
 header {
-    background-color: #fff3f3;
+    background-color: #5b0888;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -63,7 +65,7 @@ header>a {
 /*Navbar Styles*/
 nav {
     position: absolute;
-    background-color: #fff3f3;
+    background-color: #9D76c1;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -83,6 +85,14 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
+}
+
+i {
+    color: #ffffff;
+}
+
+a {
+    color: #ffffff;
 }
 
 
@@ -133,7 +143,6 @@ main {
 #intro-container {
     width: 95%;
     margin: 20px auto;
-    background-color: #3a3a3a48;
 }
 
 #intro-container h2 {
@@ -159,7 +168,7 @@ main {
 #box1,
 #box2,
 #box3 {
-    background: #fff3f3;
+    background: #E5CFF7;
     border-radius: 10px;
     margin-bottom: 5%;
     padding: 20px 12px;
@@ -195,6 +204,7 @@ hr {
     width: 90%;
     padding: 3em 0;
     text-align: center;
+    background-color: #E5CFF7;
 }
 
 .attr-text {
