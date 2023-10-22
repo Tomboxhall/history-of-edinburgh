@@ -85,7 +85,6 @@ nav {
     align-items: center;
 }
 
-
 /*Nav Toggle Checkbox*/
 #nav-toggle:checked~nav {
     display: block;
@@ -469,6 +468,11 @@ footer {
 
     #menu {
         display: flex;
+        position: relative;
+        left: auto;
+        top: auto;
+        flex-direction: row;
+        width: 100%;
     }
 
     #menu>li {
@@ -543,6 +547,14 @@ footer {
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
+    }
+
+    #menu {
+        padding: 25px;
+    }
+
+    #menu a {
+        margin-right: 50px;
     }
 }
 
