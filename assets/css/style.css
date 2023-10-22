@@ -18,7 +18,6 @@ body {
     /*Generic Project Styles*/
     color: #3a3a3a;
     background-color: #e5cff7;
-    /*background: url("../images/website-bg.webp") no-repeat center center/cover;*/
 }
 
 h1 {
@@ -117,10 +116,10 @@ main {
 }
 
 /*Hero Section*/
-#hero {
+#hero1 {
     height: 600px;
     width: 100%;
-    background: url("../images/Hero-image2.webp") no-repeat center center/cover;
+    background: url("../images/hero-image-main.webp") no-repeat center center/cover;
     position: relative;
 }
 
@@ -305,6 +304,13 @@ hr {
 }
 
 /*History Page*/
+#hero2 {
+    height: 600px;
+    width: 100%;
+    background: url("../images/hero-image-2.webp") no-repeat center center/cover;
+    position: relative;
+}
+
 #history {
     padding: 3em 0;
 }
@@ -574,10 +580,6 @@ footer {
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
-    }
-
-    #menu {
-        padding: 25px;
     }
 
     #menu a {
