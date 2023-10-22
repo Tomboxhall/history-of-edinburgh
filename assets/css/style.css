@@ -653,14 +653,17 @@ footer {
 
     #box1:hover {
         transform: scale(1.2);
+        transition: 0.2s;
     }
 
     #box2:hover {
         transform: scale(1.2);
+        transition: 0.2s;
     }
 
     #box3:hover {
         transform: scale(1.2);
+        transition: 0.2s;
     }
 
     #intro-container {
@@ -730,5 +733,10 @@ footer {
         grid-template-columns: repeat(2, minmax(7.75em, 28em));
         gap: 4em;
         justify-content: center;
+    }
+
+    .img-frame:hover {
+        transform: scale(1.4);
+        transition: 0.2s;
     }
 }
