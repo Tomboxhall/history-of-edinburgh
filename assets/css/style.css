@@ -488,7 +488,7 @@ footer {
 
     /*Contact Form*/
     #form {
-        position: fixed;
+        position: absolute;
         bottom: 150px;
         right: 5%;
         left: 5%;
