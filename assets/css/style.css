@@ -84,6 +84,10 @@ nav {
     align-items: center;
 }
 
+.active {
+    border-bottom: 2px solid #3a3a3a;
+}
+
 /*Nav Toggle Checkbox*/
 #nav-toggle:checked~nav {
     display: block;
