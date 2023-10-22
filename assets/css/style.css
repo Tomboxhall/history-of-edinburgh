@@ -220,7 +220,6 @@ hr {
     width: 90%;
     padding: 3em 0;
     text-align: center;
-    background-color: #E5CFF7;
 }
 
 #attr-container h3 {
@@ -237,14 +236,14 @@ hr {
 }
 
 .attr-text {
-    line-height: 120%;
+    line-height: 160%;
 }
 
 .img-frame {
     justify-self: center;
     align-self: center;
-    border: 2px solid #3a3a3a;
-    border-style: outset;
+    border: 3px solid #3a3a3a;
+    border-style: inset;
 }
 
 .attr-img {
@@ -325,9 +324,7 @@ hr {
     text-align: center;
 }
 
-#history h2 {
-
-}
+#history h2 {}
 
 #history h3 {
     background-color: #9d76c1;
@@ -537,6 +534,11 @@ footer {
         font-size: 16px;
     }
 
+    #about p {
+        font-size: 16px;
+    }
+
+
     /*Contact Us*/
     /*Form*/
     #sign-up {
@@ -636,15 +638,15 @@ footer {
     #intro-container h2 {
         font-size: 32px;
     }
-    
+
     #intro-container p {
         font-size: 16px;
     }
-    
+
     #attractions h2 {
         font-size: 32px;
     }
-    
+
     #attractions p {
         font-size: 16px;
     }
