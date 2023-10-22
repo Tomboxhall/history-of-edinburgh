@@ -59,8 +59,8 @@ header>a {
     margin-bottom: 1em;
 }
 
-.active {
-    /*border-bottom: 1px solid #3a3a3a;*/
+#menu a {
+    text-decoration: none;
 }
 
 /*Navbar Styles*/
@@ -121,6 +121,7 @@ main {
     width: 100%;
     background: url("../images/hero-image-main.webp") no-repeat center center/cover;
     position: relative;
+    box-shadow: 0 2px 2px #3a3a3a;
 }
 
 #cover-text {
@@ -190,6 +191,7 @@ main {
     border-radius: 10px;
     margin-bottom: 5%;
     padding: 20px 12px;
+    box-shadow: 0 2px 2px #3a3a3a;
 }
 
 #intro-image {
@@ -272,6 +274,7 @@ hr {
 #attractions {
     width: 95%;
     margin: 20px auto;
+    box-shadow: 0 2px 2px #3a3a3a;
 }
 
 #attractions h2 {
