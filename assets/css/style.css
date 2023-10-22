@@ -483,6 +483,18 @@ footer {
     font-family: 'Young Sans' sans-serif;
 }
 
+/*Media Query for Screen Sizes 767px and down*/
+@media screen and (max-width:767px) {
+
+    /*Contact Form*/
+    #form {
+        position: fixed;
+        bottom: 150px;
+        right: 5%;
+        left: 5%;
+        }
+}
+
 /*Media Query for Screen sizes 768px and Up*/
 @media screen and (min-width: 768px) {
 
