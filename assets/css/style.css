@@ -651,6 +651,17 @@ footer {
         transform-origin: left;
     }
 
+    #box1:hover {
+        transform: scale(1.2);
+    }
+
+    #box2:hover {
+        transform: scale(1.2);
+    }
+
+    #box3:hover {
+        transform: scale(1.2);
+    }
 
     #intro-container {
         margin: 45px 45px 0 45px;
