@@ -141,11 +141,13 @@ main {
 
 #cover-text>h2 {
     padding-bottom: 20px;
-    font-size: 110%;
+    font-size: 140%;
+    text-transform: uppercase;
 }
 
 #cover-text>p {
     font-size: 90%;
+    text-transform: capitalize;
 }
 
 /*Introduction Section*/
@@ -273,6 +275,7 @@ hr {
 }
 
 #attractions h2 {
+    margin-top: 10px;
     margin-bottom: 20px;
     text-align: center;
     font-size: 160%;
@@ -323,8 +326,6 @@ hr {
 #history h1 {
     text-align: center;
 }
-
-#history h2 {}
 
 #history h3 {
     background-color: #9d76c1;
@@ -641,6 +642,10 @@ footer {
 
     #intro-container p {
         font-size: 16px;
+    }
+
+    #attractions {
+        background-color: #9d76c1;
     }
 
     #attractions h2 {
