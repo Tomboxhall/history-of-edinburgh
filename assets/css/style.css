@@ -66,7 +66,7 @@ header>a {
 /*Navbar Styles*/
 nav {
     position: absolute;
-    background-color: #9d76c1b9;
+    background-color: #9d76c198;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -131,7 +131,7 @@ main {
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    background-color: #e5cff7a4;
+    background-color: #d2aaf3a4;
 }
 
 #cover-text>h2,
@@ -237,7 +237,7 @@ hr {
 }
 
 .attr-text {
-    line-height: 170%;
+    line-height: 120%;
 }
 
 .img-frame {
@@ -301,6 +301,7 @@ hr {
 
 #about p {
     text-align: center;
+    font-size: 14px;
 }
 
 /*History Page*/
