@@ -319,8 +319,15 @@ hr {
 }
 
 #history h2 {
+
+}
+
+#history h3 {
     background-color: #9d76c1;
     color: #ffffff;
+    width: 100%;
+    position: relative;
+    font-size: 20px;
 }
 
 .img-frame {
@@ -507,6 +514,22 @@ footer {
         font-size: 100%;
     }
 
+    #intro-container h2 {
+        font-size: 32px;
+    }
+
+    #intro-container p {
+        font-size: 16px;
+    }
+
+    #attractions h2 {
+        font-size: 32px;
+    }
+
+    #attractions p {
+        font-size: 16px;
+    }
+
     /*Contact Us*/
     /*Form*/
     #sign-up {
@@ -539,6 +562,10 @@ footer {
     #history h1 {
         padding-top: 0;
         color: #3a3a3a;
+    }
+
+    #history h2 {
+        font-size: 40px;
     }
 
 }
@@ -601,6 +628,22 @@ footer {
     #about {
         width: 45%;
         margin-bottom: 60px;
+    }
+
+    #intro-container h2 {
+        font-size: 32px;
+    }
+    
+    #intro-container p {
+        font-size: 16px;
+    }
+    
+    #attractions h2 {
+        font-size: 32px;
+    }
+    
+    #attractions p {
+        font-size: 16px;
     }
 
     /*History Page*/
