@@ -315,6 +315,7 @@ hr {
     width: 100%;
     background: url("../images/hero-image-2.webp") no-repeat center center/cover;
     position: relative;
+    box-shadow: 0 2px 2px #3a3a3a;
 }
 
 #history {
