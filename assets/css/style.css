@@ -275,7 +275,6 @@ hr {
 #attractions {
     width: 95%;
     margin: 20px auto;
-    box-shadow: 0 2px 2px #3a3a3a;
 }
 
 #attractions h2 {
@@ -588,7 +587,7 @@ footer {
 /*Media Query for screens larger than 992px*/
 @media screen and (min-width: 992px) {
     #menu a:hover {
-        border-bottom: 1px solid #3a3a3a;
+        border-bottom: 3px solid #ffffff;
     }
 
     #menu a {
