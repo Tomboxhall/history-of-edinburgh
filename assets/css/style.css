@@ -75,6 +75,17 @@ nav {
     top: 100%;
 }
 
+#menu {
+    display: flex;
+    margin-top: 1em;
+    top: 0;
+    left: 0;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+
 /*Nav Toggle Checkbox*/
 #nav-toggle:checked~nav {
     display: block;
