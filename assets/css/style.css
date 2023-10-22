@@ -539,13 +539,17 @@ footer {
 @media screen and (min-width: 1200px) {
 
     #intro-container {
-        margin: 45px;
+        margin: 45px 45px 0 45px;
     }
 
     #what-to-section {
-        margin: 5%;
+        margin: 15px;
         display: flex;
         justify-content: space-between;
+    }
+
+    hr {
+        margin: 50px;
     }
 
     .group {
