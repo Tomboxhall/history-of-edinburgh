@@ -343,7 +343,7 @@ hr {
     font-size: 20px;
 }
 
-.img-frame {
+.img-frame-main {
     justify-self: center;
     align-self: center;
 }
@@ -405,12 +405,19 @@ hr {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    box-shadow: 0 0 2px 2px;
 }
 
 #networks i {
     font-size: 160%;
     padding: 5%;
     color: #ffffff;
+    box-shadow: 0 0 2px 2px;
+    border-radius: 10px;
+}
+
+#networks .fa-brands {
+    padding: 5px;
 }
 
 footer {
@@ -726,6 +733,12 @@ footer {
 
     #attractions p {
         font-size: 16px;
+    }
+
+    .fa-brands:hover {
+        transform: scale(1.6);
+        transition: 0.2s;
+
     }
 
     /*History Page*/
