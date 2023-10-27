@@ -235,13 +235,9 @@ hr {
     padding-top: 10px;
     padding-bottom: 10px;
     text-decoration: underline;
-    background-color: #9d76c1;
+    background-image: linear-gradient(to right, rgba(229, 207, 247, 0), rgba(113, 58, 190, 1));
     color: #ffffff;
     letter-spacing: 2px;
-}
-
-#attr-container p {
-    background-color: #9d76c1;
 }
 
 .attr-text {
@@ -328,7 +324,6 @@ hr {
 }
 
 #history p {
-    background-color: #e5cff7;
     padding-top: 10px;
 }
 
@@ -337,7 +332,7 @@ hr {
 }
 
 #history h3 {
-    background-color: #9d76c1;
+    background-image: linear-gradient(to right, rgba(229, 207, 247, 0), rgba(113, 58, 190, 1));
     color: #ffffff;
     width: 100%;
     position: relative;
@@ -722,10 +717,6 @@ footer {
 
     #intro-container p {
         font-size: 16px;
-    }
-
-    #attractions {
-        background-color: #9d76c1;
     }
 
     #attractions h2 {
