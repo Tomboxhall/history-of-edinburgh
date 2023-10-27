@@ -17,7 +17,7 @@ body {
     flex-direction: column;
     /*Generic Project Styles*/
     color: #3a3a3a;
-    background-color: #e5cff7;
+    background-image: linear-gradient(to right, rgba(229, 207, 247, 0), rgba(113, 58, 190, 1));
 }
 
 h1 {
