@@ -81,7 +81,27 @@ The colour palette chosen was due to the national colour of scotland being purpl
 
 ### Typography
 
-![Young-Serif](https://fonts.google.com/specimen/Young+Serif?query=young)
+[Young-Serif](https://fonts.google.com/specimen/Young+Serif?query=young)
 - Young Serif was chosen to be the font throughout the entire website due to its **historical** appearance, its similar to how i would image handwritten text to have looked in the previous ages. It is also bold and clear, yet satisfying on the eye.
 
+### Images
+
+The images used in this project were mainly sourced from [Unsplash](https://unsplash.com/) and [Google](https://www.google.co.uk/) They were specifically chosen as they correlate with the information of the website. The Hero images were chosen as they provide eye catching scenic views of the city of edinburgh, including historical places of interest. The history page contains images sourced from Google, due to the timeframe they are from it was only available option, they also provide a good visual represnetationof the timeframes they're related too.
+
+### Visual Effects
+
+#### Images Hover Effects
+Majority of the images on the website have a **Hover:Grow** effect on them, this was chosen so that the user could enlarge the image to get a better look, it also adds a fun level of interaction on the website and creates levels to the page.
+
+#### Background Gradients
+The Edinburgh website was designed to have excess free space around the information, the decision was made to apply a gradient background to make it more pleasant. It also helps to blend the information sections in with the overall aesthetic of the page. Also chosen as personally believe that a gradient encourages the user to start at the left and lighter side and read the information moving to the right where the colour is bolder. 
+
+#### Links and their Hover Effect
+Due to the colour choice of the website it was essential that the Links stood out, and were positioned clearly so that the user would have no confusion about where and what the function was. An added **Hover:Grow** effect was added for a similar reason to the images, it provides depth and a level of interaction to the website. The effect is only implemented for screen sizes of 1200px and above.
+
+#### NavBar Hover Effect
+The NavBar includes a **Hover:Over** effect that will be appealing to the user. When the User hover's over the navbar the underline will move in from the left and leave via the right. The effect helps to add a sort of 3D effect to the navbar, and is visually appealing to engage with. The effect is only implemented for screen sizes of 1200px and above.
+
+#### Buttons
+The button on the contact form changes colour when hovered over, and the text input fields highlight a different colour to let the user know that is where theyre due to put their information in. It's a visual indicator that is quite effective across most modern websites.
 
