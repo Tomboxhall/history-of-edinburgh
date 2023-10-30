@@ -33,3 +33,26 @@ The website has been built using HTML and CSS, and is the final submission for t
   
 - Users shall be able to use all types of devices due to the website being optimised for Mobile, Tablet and PC.
 
+## Structure
+### Home Page
+- The home page introduces the whole topic of the website and main purposes on the first page.
+- Provides a complete overview of the topic, ranging from current to past times information.
+- Each page is clearly laid out, and information if specific to the topic on each page.
+- Keep the users attention engaged, through use of soft colour schemes, and engaging interactive features.
+    #### User's Goal:
+    > - Be able to navigate the multiple pages with simplicity and ease.
+    > - Be able to recognise and understand the main purpose of the website.
+    > - To have a fun experience, and to find the interactive features engaging.
+
+### History Page
+- Provides historical information about edinburgh throughout the ages.
+- Allows the user to engage with the images in an interactive way.
+    #### User's Goal:
+    > - Provide information starting in the Medieval times, and ranging all the way up to 19th century.
+    > - Be able to enlarge the images for a clearer look.
+
+### Contact Us Page
+- Allows users to signup to receive more information whenever it is uploaded.
+    #### User's Goal:
+    > - User's may also use Contact us feature to request specific information about the content.
+ 
