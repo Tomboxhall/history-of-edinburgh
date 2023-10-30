@@ -79,3 +79,9 @@ As the Edinburgh site is mainly an information website, the design layout was ch
 
 The colour palette chosen was due to the national colour of scotland being purple, it was also chosen becasue the different tones of purple are very soft and appealing on the eye, which in turn would give the user a pleasant experience.
 
+### Typography
+
+![Young-Serif](https://fonts.google.com/specimen/Young+Serif?query=young)
+- Young Serif was chosen to be the font throughout the entire website due to its **historical** appearance, its similar to how i would image handwritten text to have looked in the previous ages. It is also bold and clear, yet satisfying on the eye.
+
+
