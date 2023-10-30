@@ -55,4 +55,27 @@ The website has been built using HTML and CSS, and is the final submission for t
 - Allows users to signup to receive more information whenever it is uploaded.
     #### User's Goal:
     > - User's may also use Contact us feature to request specific information about the content.
- 
+
+---
+
+## Wireframes
+
+### **Home**
+
+### **History**
+
+### **Contact Us***
+
+
+---
+
+## Design
+
+As the Edinburgh site is mainly an information website, the design layout was chosen to make it simple and easy to keep the information clear and precise. It was designed so that the first thing people would see would be the modern day information about Edinburgh, along with a modern day image. They would then progress down to a 'Historical Activites' section which would outline the main tourist attractions for visitors. Having images allows the user to see what the information is describing first hand. The History page is where the bulk of the factual historical information is found, and the design was chosen to provide a simple layout leaving no room for distraction away from the core information.
+
+### Colour Scheme
+
+![Palette](assets/images/readme/Colour%20palette.png)
+
+The colour palette chosen was due to the national colour of scotland being purple, it was also chosen becasue the different tones of purple are very soft and appealing on the eye, which in turn would give the user a pleasant experience.
+
