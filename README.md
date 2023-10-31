@@ -127,3 +127,18 @@ This will be the first thing the user will set eyes on, the image has been chose
 ![hero1](assets/images/readme/hero1.png)
 ![hero2](assets/images/readme/hero2.png)
 
+**Introduction Section**
+
+The Introduction section will be the main welcoming of the user to the website, this is where they will start their journey and begin learning about Edinburgh. The section includes a heading with an icon of a castle, which was chosen because Edinburgh Castle is the main tourist feature of the city, and the use of the icon will engage the user and subtly compliment the historical tie between Edinburgh and the Castle. 
+
+The three information boxes go further into detail as to what the user can do on arrival in Edinburgh, the **What to See**, **What to Do** and **When to Visit** headings provide precise and useful information, and content is direct and informative. They have a **Hover:Grow** effect, that when Hovered over they grow slightly, this adds a level of interaction to the website.
+
+Below these is an image of a Scottish bagpipes musician, this is another Scottish national Icon, and the use of it in this section is to re-iterate the rich historical heritage, and what the user can expect to see and hear if they visit.
+
+![intro1](assets/images/readme/intro1.png)
+
+When viewed on Mobile and Ipad sized screens, the Introduction section due to optimisation will change from a horizontal format to a vertical format, and the three information boxes will no longer have the Hover effect. They still maintain the same information and style, but designed to fill the available space.
+
+![intro2](assets/images/readme/intro2.png)
+![intro3](assets/images/readme/intro3.png)
+
