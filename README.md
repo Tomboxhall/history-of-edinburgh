@@ -120,4 +120,10 @@ When viewed on mobile, the NavBar will appear as a **hamburger** icon, and the m
 ![navbar1](assets/images/readme/navbar1.png)
 ![navbar2](assets/images/readme/navbar2.png)
 
+**Hero Image**
+
+This will be the first thing the user will set eyes on, the image has been chosen as it is an iconic Edinburgh attraction, and wherther the user has read about it or seen it before it plays an important role in early engagment with the website. There is an overlay text which includes the Website title, and a brief description as to what they can expect to read about throughout the website. The transparency of the overlay box has been adjusted so that it doesnt obstruct the Hero Image, but also keeps the content readable. A similar approach has been used on the History Page Hero image, this is also an iconic view that visitors to Edinburgh can expect to see. All Hero images have been optimised so that they maintain their quality throught all screen sizes from Mobile to Desktop.
+
+![hero1](assets/images/readme/hero1.png)
+![hero2](assets/images/readme/hero2.png)
 
