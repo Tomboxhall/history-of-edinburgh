@@ -164,3 +164,22 @@ The footer contains the links to the social media platforms, and allows the user
 ![footer](assets/images/readme/footer.png)
 
 The About Us and Footer section are both optimised for Mobile and Ipad screens, and maintain the same content and style, but positioned for each size screen.
+
+**History Page**
+
+The History page is where the user can find the core content regarding the **History of Edinburgh**, it provides detailed information regarding the different historical ages of Edinburgh, ranging from Medieval to 19th Century. The layout was chosen to be uniformed, and adhere to the ethos of the website of being a informational first website. Alongside the content is an image as point of reference to what the content is relating too. 
+
+![history](assets/images/readme/history.png)
+
+The **border box shadow** and **Hover:Grow** styles have been maintained on this page of the website to keep it familiar and interactive with the user. As stated before the use of the box shadow is effective in making the images stand out from the background, and the hover effect makes the image come to life up out of the website when the user moves their cursor over the image.
+
+The headings have the same colour gradient effect as the Home page, this is too keep the visual queue's of the website familiar to the user, and also adds a nice, subtle styling that works well with the background.
+
+On a mobile screen size the content changes its layout to a vertical layout, this is due to the optimisation screen width. All content and styles remain the same however, without the Hover effects.
+
+![history1](assets/images/readme/history1.png)
+
+On an ipad screen size the content remains the same as a desktop, it has been optimised to fit the screen width. However it also looses the Hover effects due to the loss of a cursor.
+
+![history3](assets/images/readme/history2.png)
+
