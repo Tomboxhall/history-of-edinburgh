@@ -142,3 +142,6 @@ When viewed on Mobile and Ipad sized screens, the Introduction section due to op
 ![intro2](assets/images/readme/intro2.png)
 ![intro3](assets/images/readme/intro3.png)
 
+**Historical Attractions**
+
+The Historical Attractions section will be where the user can seeand read about main attractions to Edinburgh. 
