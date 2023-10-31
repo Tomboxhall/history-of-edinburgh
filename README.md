@@ -144,4 +144,12 @@ When viewed on Mobile and Ipad sized screens, the Introduction section due to op
 
 **Historical Attractions**
 
-The Historical Attractions section will be where the user can seeand read about main attractions to Edinburgh. 
+The Historical Attractions section will be where the user can see and read about main attractions to Edinburgh. It maintains the similar layout to the Intoduction above, so as to keep the website uniformed and familiar. The main focus of this section is the three images showing rhe **Castle**, **Museum** and **Old Streets**. The use of box shadowing around the images helps to add a layer of depth, and bring the images out of the webpage and more into the attention of the user. The information is positioned to the left hand side, and headings have a gradient effect to make them stand out from the background, and highlight exactly what each image is.
+
+![hist-attr1](assets/images/readme/hist-attr1.png)
+
+When viewed on a Mobile or Ipad sized screen, the layout of these screen changes from a horizontal format to a vertical layout. They still maintain the same information and style, but designed to allow the user to read the information first and then refer to the image for confirmation.
+
+![hist-attr2](assets/images/readme/hist-attr2.png)
+![hist-attr3](assets/images/readme/hist-attr3.png)
+
