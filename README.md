@@ -111,7 +111,7 @@ The button on the contact form changes colour when hovered over, and the text in
 ## Existing Features
 - **Navigation Bar**
 
-Each of the webpages has a fully responsive navigation bar located at the top, on the left you have the logo, which is also a hyperlink to the home page, and on the right you have the links to Home, History and Contact Us pages. Throughout the different optimisations it always maintain the same appearance and style, this allows the user to get familiar with its layout, and keeps it clear whare each link will direct the user throughout the website. 
+Each of the webpages has a fully responsive navigation bar located at the top, on the left you have the logo, which is also a hyperlink to the home page, and on the right you have the links to Home, History and Contact Us pages. Throughout the different optimisations it always maintain the same appearance and style, this allows the user to get familiar with its layout, and keeps it clear whare each link will direct the user throughout the website. Each NavBar menu hyperlink has a Hover effect added to it, which adds a level of interaction and visual queue for the user which one they're hovering over.
 
 ![navbar](assets/images/readme/navbar.png)
 
@@ -144,7 +144,7 @@ When viewed on Mobile and Ipad sized screens, the Introduction section due to op
 
 **Historical Attractions**
 
-The Historical Attractions section will be where the user can see and read about main attractions to Edinburgh. It maintains the similar layout to the Intoduction above, so as to keep the website uniformed and familiar. The main focus of this section is the three images showing rhe **Castle**, **Museum** and **Old Streets**. The use of box shadowing around the images helps to add a layer of depth, and bring the images out of the webpage and more into the attention of the user. The information is positioned to the left hand side, and headings have a gradient effect to make them stand out from the background, and highlight exactly what each image is.
+The Historical Attractions section will be where the user can see and read about main attractions to Edinburgh. It maintains the similar layout to the Intoduction above, so as to keep the website uniformed and familiar. The main focus of this section is the three images showing rhe **Castle**, **Museum** and **Old Streets**. The use of box shadowing around the images helps to add a layer of depth, and bring the images out of the webpage and more into the attention of the user. There is a **Hover:Grow** effect added to the images to add a level of interaction to the website, it also enlarges the images for the user to get a bigger view of the chosen images. The information is positioned to the left hand side, and headings have a gradient effect to make them stand out from the background, and highlight exactly what each image is.
 
 ![hist-attr1](assets/images/readme/hist-attr1.png)
 
@@ -153,3 +153,14 @@ When viewed on a Mobile or Ipad sized screen, the layout of these screen changes
 ![hist-attr2](assets/images/readme/hist-attr2.png)
 ![hist-attr3](assets/images/readme/hist-attr3.png)
 
+**About Us and Footer**
+
+The About Us section provides a short roundup of content to let the user know About the person/company behind the website. It helps to add a personal level to the website, and informs the user about the aims and goals. Underneath the content is a hyperlink that will direct the user to the **Contact Us** page, it also has the same Hover effect applied as the NavBar menu.
+
+![about](assets/images/readme/about.png)
+
+The footer contains the links to the social media platforms, and allows the user to continue their engagement beyond the website. A **Hover:Grow** effect has also been added to add an interactive aspect, and also gives a visual queue as to which one theyre hovering over for the visually impaired.
+
+![footer](assets/images/readme/footer.png)
+
+The About Us and Footer section are both optimised for Mobile and Ipad screens, and maintain the same content and style, but positioned for each size screen.
