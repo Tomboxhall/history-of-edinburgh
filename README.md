@@ -105,3 +105,19 @@ The NavBar includes a **Hover:Over** effect that will be appealing to the user. 
 #### Buttons
 The button on the contact form changes colour when hovered over, and the text input fields highlight a different colour to let the user know that is where theyre due to put their information in. It's a visual indicator that is quite effective across most modern websites.
 
+---
+
+# Features
+## Existing Features
+- **Navigation Bar**
+
+Each of the webpages has a fully responsive navigation bar located at the top, on the left you have the logo, which is also a hyperlink to the home page, and on the right you have the links to Home, History and Contact Us pages. Throughout the different optimisations it always maintain the same appearance and style, this allows the user to get familiar with its layout, and keeps it clear whare each link will direct the user throughout the website. 
+
+![navbar](assets/images/readme/navbar.png)
+
+When viewed on mobile, the NavBar will appear as a **hamburger** icon, and the menu is fully CSS functional to drop down, with a transparent background as to add a nice visual gradient and depth to the website.
+
+![navbar1](assets/images/readme/navbar1.png)
+![navbar2](assets/images/readme/navbar2.png)
+
+
