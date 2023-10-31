@@ -183,3 +183,15 @@ On an ipad screen size the content remains the same as a desktop, it has been op
 
 ![history3](assets/images/readme/history2.png)
 
+**Signup Page**
+
+This page allows the user to sign up to the Edinburgh website, and in turn receive further information about the City. The page's main feature is the form where they will be able to submit their First Name, Last Name, Email Address and select whether or not they have visited the city before via radio buttons. The background image has been included to add a 'feel good factor', and the image is of greyfriars bobby, a famous dog in the city, of which the user will be able to visit the statue if they decide to visit. 
+
+ADD IMAGE ONCE FIXED.
+
+The Signup page has also been optimised for Mobile and Ipad screens, the content remains the same but the positioning has been adjusted so that it does not interfere with the NavBar menu dropdown function, this was chosen so there wouldnt be any overlapping of content. The form size has also been adjusted to better fit the screen, the background image remains the same and centered throughout.
+
+![contact1](assets/images/readme/contact1.png)
+![contact2](assets/images/readme/contact2.png)
+
+CHANGE THE SCREENSHOTS WHEN AMMENDMENTS ARE MADE
