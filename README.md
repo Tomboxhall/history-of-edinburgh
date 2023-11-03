@@ -264,11 +264,11 @@ Desktop
 
 # Accessibility Testing
 
-## Toptal Colorfilter
+### Toptal Colorfilter
 
 This website has been tested using [Toptal Colorfilter](https://www.toptal.com/designers/colorfilter), and no accessibility issues were detected.
 
-## Screen Reader
+### Screen Reader
 
 This website has been tested with [Screen Reader for Google Chrome](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn), And no issues were detected.
 
