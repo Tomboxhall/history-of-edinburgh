@@ -75,7 +75,7 @@ As the Edinburgh site is mainly an information website, the design layout was ch
 
 ### Colour Scheme
 
-![Palette](assets/images/readme/Colour%20palette.png)
+![Palette](assets/images/readme/colour-palette.png)
 
 The colour palette chosen was due to the national colour of scotland being purple, it was also chosen becasue the different tones of purple are very soft and appealing on the eye, which in turn would give the user a pleasant experience.
 
@@ -221,4 +221,33 @@ The breakpoints on this website were chosen by researching the most popular devi
 - [W3C HTML Markup Validator](https://validator.w3.org/) Validate the HTML code of the website.
 - [W3C CSS Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) Validate the CSS of the website.
 
+# Automated Testing
 
+**[W3C Jigsaw CSS](https://jigsaw.w3.org/css-validator/) CSS Validation**
+- The CSS stylesheet was tested and no errors were detected.
+
+**[W3C HTML Markup](https://validator.w3.org/) HTML Validation**
+- The HTML on all pages was run through the validator and no errors were detected.
+
+**[Google Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)**
+
+**Home Page**
+
+Mobile
+
+
+Desktop
+
+**History Page**
+
+Mobile
+
+
+Desktop
+
+**Contact Us**
+
+Mobile
+![Contact Mobile](assets/images/readme/contact%20-%20mobile.jpg)
+
+Desktop
