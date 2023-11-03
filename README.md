@@ -277,3 +277,12 @@ This website has been tested using [Toptal Colorfilter](https://www.toptal.com/d
 
 This website has been tested with [Screen Reader for Google Chrome](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn), And no issues were detected.
 
+# Deployment
+
+This project was deployed to Github pages, a step by step guide to deploy is as follows:
+
+1. Log into Github [Github](https://github.com/Tomboxhall/history-of-edinburgh).
+2. Choose [![history-of-edinburgh]][History-Of-Edinburgh] in the list of repositories.
+3. Select 'settings' in the repositories sub headings along the top.
+4. In the left hand side menu, select the 'pages' link within the 'code and automation' section.
+5. 
