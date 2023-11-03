@@ -21,7 +21,7 @@ body {
 }
 
 h1 {
-    font-family: 'Young Serif' sans-serif;
+    font-family: 'Young Serif', serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #ffffff;
@@ -484,7 +484,6 @@ footer {
     padding: 10px 25px;
     font-size: 100%;
     background-color: #e5cff7;
-    font-family: 'Young Sans' sans-serif;
 }
 
 /*Media Query for Screen Sizes 767px and down*/
