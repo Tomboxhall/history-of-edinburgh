@@ -239,7 +239,7 @@ Mobile
 
 Desktop
 
-![Home Page Desktop](assets/images/readme/home-desktop.jpg)
+![Home Page Desktop](/assets/images/readme/home-desktop.jpg)
 
 **History Page**
 
@@ -250,13 +250,13 @@ Mobile
 
 Desktop
 
-![History Desktop](assets/images/readme/history-desktop.jpg)
+![History Desktop](/assets/images/readme/history-desktop.jpg)
 
 **Contact Us**
 
 Mobile
 
-![Contact Mobile](assets/images/readme/contact-mobile.jpg)
+![Contact Mobile](/assets/images/readme/contact-mobile.jpg)
 
 Desktop
 
