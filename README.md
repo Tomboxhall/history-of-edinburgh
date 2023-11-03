@@ -202,5 +202,23 @@ The website has been designed to be simple and informative at first, but underne
 
 The breakpoints on this website were chosen by researching the most popular devices, and their subsequent screen sizes. My results showed me an Iphone, Ipad and Desktop were most popular, and therefore the 350px, 768px and 1200px were used. However, 767px and below, and 992px and above were also used for single CSS commands due to particular features required within each of these breakpoints. The use of Flexbox and Grid layouts aided in keeping all content where it is supposed to be, and the transition between screen sizes seemlessly.
 
-## Technologies
+# Technologies
+
+- HTML for the structure of the website.
+- CSS for styling of the content of the website.
+- [Codeanywhere](https://dashboard.codeanywhere.com/) Codeanywhere as the IDE to develop the website on.
+- [Github](https://github.com/) Github for hosting the source code, and Github pages for deploying the live site through.
+- Git, for commiting and pushing any changes to their code to the repository.
+- [Chrome dev tools](https://developer.chrome.com/docs/devtools/) For testing layouts, debugging and general tweaking of the code.
+- [Google Fonts](https://fonts.google.com/) Providing the fonts.
+- [FontAwesome](https://fontawesome.com/) Providing the Icons.
+- [Balsamiq](https://balsamiq.com/) For designing the WireFrames.
+- [CloudConvert](https://cloudconvert.com/jpg-to-webp) Converting JPG images to WEBP, for better optimisation on the website.
+- [Techsini](https://techsini.com/multi-mockup/) To create the Mockup of the website used in this README.
+- [Colorhunt](https://colorhunt.co/palette/5b0888713abe9d76c1e5cff7) To source the Color Paletre used in this website.
+- Google Chrome Lighthouse - To check Accessibility.
+- [Toptal](https://www.toptal.com/designers/colorfilter) For checking the Color-blind accessibility.
+- [W3C HTML Markup Validator](https://validator.w3.org/) Validate the HTML code of the website.
+- [W3C CSS Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) Validate the CSS of the website.
+
 
