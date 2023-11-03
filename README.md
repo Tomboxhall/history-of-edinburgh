@@ -281,8 +281,11 @@ This website has been tested with [Screen Reader for Google Chrome](https://chro
 
 This project was deployed to Github pages, a step by step guide to deploy is as follows:
 
-1. Log into Github [Github](https://github.com/Tomboxhall/history-of-edinburgh).
-2. Choose [![history-of-edinburgh]][History-Of-Edinburgh] in the list of repositories.
-3. Select 'settings' in the repositories sub headings along the top.
-4. In the left hand side menu, select the 'pages' link within the 'code and automation' section.
-5. 
+1. Log into [Github](https://github.com/Tomboxhall/history-of-edinburgh).
+2. Choose `history-of-edinburgh` in the list of repositories.
+3. Select `settings` in the repositories sub headings along the top.
+4. In the left hand side menu, select the `pages` link within the `code and automation` section.
+5. Within the branch sub-section, under Build and Deployment select `main` in the dropdown menu.
+6. Select the `root` in the dropdown menu to the right.
+7. Press `save`
+8. Finally a message should appear stating that the website is ready to be deployed, refresh the page, and the link should be available at the top of the page.
