@@ -245,7 +245,7 @@ Desktop
 
 Mobile
 
-![History Mobile]
+![History Mobile](assets/images/readme/history-mobile.jpg)
 
 
 Desktop
