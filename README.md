@@ -248,6 +248,6 @@ Desktop
 **Contact Us**
 
 Mobile
-![Contact Mobile](assets/images/readme/contact%20-%20mobile.jpg)
+![Contact Mobile](assets/images/readme/contact-mobile.jpg)
 
 Desktop
