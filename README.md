@@ -235,15 +235,22 @@ The breakpoints on this website were chosen by researching the most popular devi
 
 Mobile
 
+![Home Page Mobile]()
 
 Desktop
+
+![Home Page Desktop](assets/images/readme/home-desktop.jpg)
 
 **History Page**
 
 Mobile
 
+![History Mobile]()
+
 
 Desktop
+
+![History Desktop](assets/images/readme/history-desktop.jpg)
 
 **Contact Us**
 
@@ -252,3 +259,5 @@ Mobile
 ![Contact Mobile](assets/images/readme/contact-mobile.jpg)
 
 Desktop
+
+![Desktop Mobile]()
