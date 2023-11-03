@@ -235,7 +235,7 @@ The breakpoints on this website were chosen by researching the most popular devi
 
 Mobile
 
-![Home Page Mobile]
+![Home Page Mobile](assets/images/readme/home-mobile.jpg)
 
 Desktop
 
