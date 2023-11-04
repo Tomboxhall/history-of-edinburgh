@@ -630,6 +630,7 @@ footer {
 /*Media Query for screens larger than 1200px*/
 @media screen and (min-width: 1200px) {
 
+    /*Following CODE is not my own, it was taken from (https://github.com/kevin-powell/fun-with-transforms-and-transform-origin/blob/master/css/main.css), and altered*/
     .fancy-link {
         text-decoration: none;
         color: #ffffff;
