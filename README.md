@@ -302,6 +302,18 @@ The design, concept and overall appearance of the website was designed by myself
 
 ## Media (Image Sources)
 
+- hero-image-main.webp is by Connor Mollison from [unsplash](https://unsplash.com/photos/brown-concrete-building-near-trees-during-daytime-d7_TtRp1s9s).
+- hero-image-2.webp is by Adam Wilson from [unsplash](https://unsplash.com/photos/calton-hill-edinburgh-united-kingdom-ktDODr-3tvY).
+- intro-image.webp is by Brad Starkey from [unsplash](https://unsplash.com/photos/man-in-blue-and-white-checkered-coat-holding-black-rifle-xmaCZXJS3Ow).
+- contact-bg.webp is by Jamie Wheeler from [unsplash](https://unsplash.com/photos/gray-concrete-statue-of-a-woman-j7awb3ThaBM).
+- castle.webp is by Ross Findlay from [unsplash](https://unsplash.com/photos/brown-brick-building-near-trees-during-daytime-Hoo00GiAVoU).
+- museum.webp is by Filip Pizil from [unsplash](https://unsplash.com/photos/group-of-people-inside-on-museum-vHCBvZv5q18).
+- old-streets.webp is by Jim Divine form [unsplash](https://unsplash.com/photos/people-walking-on-sidewalk-near-red-concrete-building-during-daytime-qpQ7NQ2CXA4).
+- medieval.webp is from [wikipedia](https://commons.wikimedia.org/wiki/File:Slezer_Castle_&_Nor_Loch_c.1690.JPG).
+- 16_17th.webp is from [National Museums Scotland](https://www.nms.ac.uk/explore-our-collections/stories/scottish-history-and-archaeology/edinburgh-at-the-time-of-the-burke-and-hare/).
+- 18th.webp is from Google, it appears the image has since been removed as its not longer accessible via the link.
+- 19th.webp is from [Edinburgh News](https://www.edinburghnews.scotsman.com/heritage-and-retro/heritage/edinburgh-in-1873-a-look-back-at-what-edinburgh-life-was-like-150-years-ago-4157837).
+
 ## Code
 
 ## Acknowledgements
