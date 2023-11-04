@@ -185,8 +185,6 @@ The Signup page has also been optimised for Mobile and Ipad screens, the content
 ![contact1](assets/images/readme/contact1.png)
 ![contact2](assets/images/readme/contact2.png)
 
-CHANGE THE SCREENSHOTS WHEN AMMENDMENTS ARE MADE
-
 ## Responsive Layout
 
 The website has been designed to be simple and informative at first, but underneath the that it was also designed to be responsive and aesthetically pleasing to use. The goal was to provide a website that a user would run into no issues using, it has also been optimised for all screne sizes and resolutions. The smallest screen size being a Mobile screen starting from 350px, all pictures, content and animations are built to suit this. The images chosen has been optimsed and positioned on the screen for this specific screen size so that they fit in proportion, but also remain the main vocal points. The hero image is the main image, and this remains the main focal point when users first access the site, so the positioning was of most importance. A similar approach was taken to the backgroud image on the Contact Us page, it was important to make sure the form did not clash, and cause any visual confusion.
