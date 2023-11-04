@@ -742,7 +742,7 @@ footer {
     /*History Page*/
     #history-container {
         grid-template-columns: repeat(2, minmax(7.75em, 28em));
-        gap: 4em;
+        gap: 5em;
         justify-content: center;
     }
 
