@@ -316,7 +316,12 @@ The design, concept and overall appearance of the website was designed by myself
 
 ## Code
 
-
+- The code snippet for the 'Hamburger Menu' was taken from the CodeInstitute 'Love Running' walkthrough [CodeInstitute](https://www.youtube.com/watch?v=ekC1dVIzEh8&t=451s).
+- The code snippet for 'Gradient Background' was taken from [W3C Schools](https://www.w3schools.com/css/css3_gradients.asp) and altered.
+- The code snippet for 'Hover:Grow' effect was taken from [W3C Schools](https://www.w3schools.com/cssref/sel_hover.php) and altrered.
+- The code snippet for NavBar Hover visual effect was taken from [Kevin Powell](https://www.youtube.com/watch?v=ceNMP-aQkQ4&t=1017s) and altered.
+- Use of Flexbox and Grid was adapted ontop of [Simplilearn](https://www.simplilearn.com/tutorials/css-tutorial/css-grid-vs-flexbox#:~:text=Flexbox%20and%20Grid%20are%20two,easy%20to%20manage%20and%20maintain.).
+- The code snippet for 'Overlay text: translate' was taken from [developer.mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate) and altered.
 
 ## Acknowledgements
 
