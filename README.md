@@ -313,6 +313,7 @@ The design, concept and overall appearance of the website was designed by myself
 - 16_17th.webp is from [National Museums Scotland](https://www.nms.ac.uk/explore-our-collections/stories/scottish-history-and-archaeology/edinburgh-at-the-time-of-the-burke-and-hare/).
 - 18th.webp is from Google, it appears the image has since been removed as its not longer accessible via the link.
 - 19th.webp is from [Edinburgh News](https://www.edinburghnews.scotsman.com/heritage-and-retro/heritage/edinburgh-in-1873-a-look-back-at-what-edinburgh-life-was-like-150-years-ago-4157837).
+- favicon.ico is from [DCiron](https://www.dciron.co.uk/products/silthi) and edited via [Favicon.cc](https://www.favicon.cc/ myself).
 
 ## Code
 
