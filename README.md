@@ -1,5 +1,7 @@
 # Edinburgh Responsive and Interactive Website
 
+![Multiple Screen Layout](assets/images/readme/multiplelayout.jpg)
+
 # Website Purpose
 This project is an optimised and interactive website aimed at providing historical information to any tourists or people who have a general interest in Edinburgh's history through the ages.
 
@@ -55,17 +57,6 @@ The website has been built using HTML and CSS, and is the final submission for t
 - Allows users to signup to receive more information whenever it is uploaded.
     #### User's Goal:
     > - User's may also use Contact us feature to request specific information about the content.
-
----
-
-## Wireframes
-
-### **Home**
-
-### **History**
-
-### **Contact Us***
-
 
 ---
 
@@ -214,7 +205,7 @@ The breakpoints on this website were chosen by researching the most popular devi
 - [FontAwesome](https://fontawesome.com/) Providing the Icons.
 - [Balsamiq](https://balsamiq.com/) For designing the WireFrames.
 - [CloudConvert](https://cloudconvert.com/jpg-to-webp) Converting JPG images to WEBP, for better optimisation on the website.
-- [Techsini](https://techsini.com/multi-mockup/) To create the Mockup of the website used in this README.
+- [Am i Responsive](https://amiresponsive.co.uk/) Creating the Mockup of my website on multiple devices for the README.
 - [Colorhunt](https://colorhunt.co/palette/5b0888713abe9d76c1e5cff7) To source the Color Paletre used in this website.
 - Google Chrome Lighthouse - To check Accessibility.
 - [Toptal](https://www.toptal.com/designers/colorfilter) For checking the Color-blind accessibility.
