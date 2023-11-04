@@ -209,6 +209,7 @@ The breakpoints on this website were chosen by researching the most popular devi
 - [Toptal](https://www.toptal.com/designers/colorfilter) For checking the Color-blind accessibility.
 - [W3C HTML Markup Validator](https://validator.w3.org/) Validate the HTML code of the website.
 - [W3C CSS Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) Validate the CSS of the website.
+- [Favicon.ico](https://www.favicon.cc/) to generate the Favicon
 
 # Automated Testing
 
