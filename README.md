@@ -332,3 +332,9 @@ I would like to thank the Code Institute for providing easy to understand and fo
 I would like to thank my Tutor, Ronan McClelland, for the useful information and feedback during our 3 sessions.
 
 Finally would like to thank the Online Slack community, for always being there when i had issues i could not figure out on my own.
+
+# Extra Comments
+
+I did not include my Wireframes in this README even though i first intended too, this is due to my Balsamiq account timing out, i tried to resign up to be able to edit the first ones i did (before i changed the layout of the website) but was being prompted to pay for their service. Im not in a position to be able to pay right now, so due to this have left them out. 
+
+I understand i may lose marks due to this, but accepting that.
