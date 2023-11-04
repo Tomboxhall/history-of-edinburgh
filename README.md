@@ -8,7 +8,7 @@ This project is an optimised and interactive website aimed at providing historic
 The core purposes of the website:
 - to provide specific historical information regarding edinburgh through several ages of time.
 - to provide information on places of interest in edinburgh.
-- to provide enough information that will make tousits wants to come and visit edinburgh.
+- to provide enough information that will make tourists wants to come and visit edinburgh.
 
 The website has been built using HTML and CSS, and is the final submission for the project#1 section of the Code Institute's Full Stack Developer course.
 
@@ -62,7 +62,7 @@ The website has been built using HTML and CSS, and is the final submission for t
 
 ## Design
 
-As the Edinburgh site is mainly an information website, the design layout was chosen to make it simple and easy to keep the information clear and precise. It was designed so that the first thing people would see would be the modern day information about Edinburgh, along with a modern day image. They would then progress down to a 'Historical Activites' section which would outline the main tourist attractions for visitors. Having images allows the user to see what the information is describing first hand. The History page is where the bulk of the factual historical information is found, and the design was chosen to provide a simple layout leaving no room for distraction away from the core information.
+As the Edinburgh site is mainly an information website, the design layout was chosen to make it simple and easy to keep the information clear and precise. It was designed so that the first thing people would see would be the modern day information about Edinburgh, along with a modern day image. They would then progress down to a 'Historical Attractions' section which would outline the main tourist attractions for visitors. Having images allows the user to see what the information is describing first hand. The History page is where the bulk of the factual historical information is found, and the design was chosen to provide a simple layout leaving no room for distraction away from the core information.
 
 ### Colour Scheme
 
@@ -73,11 +73,11 @@ The colour palette chosen was due to the national colour of scotland being purpl
 ### Typography
 
 [Young-Serif](https://fonts.google.com/specimen/Young+Serif?query=young)
-- Young Serif was chosen to be the font throughout the entire website due to its **historical** appearance, its similar to how i would image handwritten text to have looked in the previous ages. It is also bold and clear, yet satisfying on the eye.
+- Young Serif was chosen to be the font throughout the entire website due to its **historical** appearance, its similar to how I would image handwritten text to have looked in the previous ages. It is also bold and clear, yet satisfying on the eye.
 
 ### Images
 
-The images used in this project were mainly sourced from [Unsplash](https://unsplash.com/) and [Google](https://www.google.co.uk/) They were specifically chosen as they correlate with the information of the website. The Hero images were chosen as they provide eye catching scenic views of the city of edinburgh, including historical places of interest. The history page contains images sourced from Google, due to the timeframe they are from it was only available option, they also provide a good visual represnetationof the timeframes they're related too.
+The images used in this project were mainly sourced from [Unsplash](https://unsplash.com/) and [Google](https://www.google.co.uk/). They were specifically chosen as they correlate with the information of the website. The Hero images were chosen as they provide eye catching scenic views of the city of edinburgh, including historical places of interest. The history page contains images sourced from Google, due to the timeframe they are from it was only available option, they also provide a good visual represnetation of the timeframes they're related to.
 
 ### Visual Effects
 
@@ -113,7 +113,7 @@ When viewed on mobile, the NavBar will appear as a **hamburger** icon, and the m
 
 **Hero Image**
 
-This will be the first thing the user will set eyes on, the image has been chosen as it is an iconic Edinburgh attraction, and wherther the user has read about it or seen it before it plays an important role in early engagment with the website. There is an overlay text which includes the Website title, and a brief description as to what they can expect to read about throughout the website. The transparency of the overlay box has been adjusted so that it doesnt obstruct the Hero Image, but also keeps the content readable. A similar approach has been used on the History Page Hero image, this is also an iconic view that visitors to Edinburgh can expect to see. All Hero images have been optimised so that they maintain their quality throught all screen sizes from Mobile to Desktop.
+This will be the first thing the user will set eyes on, the image has been chosen as it is an iconic Edinburgh attraction, and whether the user has read about it or seen it before it plays an important role in early engagment with the website. There is an overlay text which includes the Website title, and a brief description as to what they can expect to read about throughout the website. The transparency of the overlay box has been adjusted so that it doesnt obstruct the Hero Image, but also keeps the content readable. A similar approach has been used on the History Page Hero image, this is also an iconic view that visitors to Edinburgh can expect to see. All Hero images have been optimised so that they maintain their quality throught all screen sizes from Mobile to Desktop.
 
 ![hero1](assets/images/readme/hero1.png)
 ![hero2](assets/images/readme/hero2.png)
@@ -135,7 +135,7 @@ When viewed on Mobile and Ipad sized screens, the Introduction section due to op
 
 **Historical Attractions**
 
-The Historical Attractions section will be where the user can see and read about main attractions to Edinburgh. It maintains the similar layout to the Intoduction above, so as to keep the website uniformed and familiar. The main focus of this section is the three images showing rhe **Castle**, **Museum** and **Old Streets**. The use of box shadowing around the images helps to add a layer of depth, and bring the images out of the webpage and more into the attention of the user. There is a **Hover:Grow** effect added to the images to add a level of interaction to the website, it also enlarges the images for the user to get a bigger view of the chosen images. The information is positioned to the left hand side, and headings have a gradient effect to make them stand out from the background, and highlight exactly what each image is.
+The Historical Attractions section will be where the user can see and read about main attractions to Edinburgh. It maintains the similar layout to the Intoduction above, so as to keep the website uniformed and familiar. The main focus of this section is the three images showing the **Castle**, **Museum** and **Old Streets**. The use of box shadowing around the images helps to add a layer of depth, and bring the images out of the webpage and more into the attention of the user. There is a **Hover:Grow** effect added to the images to add a level of interaction to the website, it also enlarges the images for the user to get a bigger view of the chosen images. The information is positioned to the left hand side, and headings have a gradient effect to make them stand out from the background, and highlight exactly what each image is.
 
 ![hist-attr1](assets/images/readme/hist-attr1.png)
 
@@ -146,7 +146,7 @@ When viewed on a Mobile or Ipad sized screen, the layout of these screen changes
 
 **About Us and Footer**
 
-The About Us section provides a short roundup of content to let the user know About the person/company behind the website. It helps to add a personal level to the website, and informs the user about the aims and goals. Underneath the content is a hyperlink that will direct the user to the **Contact Us** page, it also has the same Hover effect applied as the NavBar menu.
+The About Us section provides a short roundup of content to let the user know about the person/company behind the website. It helps to add a personal level to the website, and informs the user about the aims and goals. Underneath the content is a hyperlink that will direct the user to the **Contact Us** page, it also has the same Hover effect applied as the NavBar menu.
 
 ![about](assets/images/readme/about.png)
 
@@ -170,7 +170,7 @@ On a mobile screen size the content changes its layout to a vertical layout, thi
 
 ![history1](assets/images/readme/history1.png)
 
-On an ipad screen size the content remains the same as a desktop, it has been optimised to fit the screen width. However it also looses the Hover effects due to the loss of a cursor.
+On an ipad screen size the content remains the same as a desktop, it has been optimised to fit the screen width. However it has also lost the Hover effects due to the loss of a cursor.
 
 ![history3](assets/images/readme/history2.png)
 
@@ -178,7 +178,7 @@ On an ipad screen size the content remains the same as a desktop, it has been op
 
 This page allows the user to sign up to the Edinburgh website, and in turn receive further information about the City. The page's main feature is the form where they will be able to submit their First Name, Last Name, Email Address and select whether or not they have visited the city before via radio buttons. The background image has been included to add a 'feel good factor', and the image is of greyfriars bobby, a famous dog in the city, of which the user will be able to visit the statue if they decide to visit. 
 
-ADD IMAGE ONCE FIXED.
+![Signup Desktop](assets/images/readme/signup-desktop.png)
 
 The Signup page has also been optimised for Mobile and Ipad screens, the content remains the same but the positioning has been adjusted so that it does not interfere with the NavBar menu dropdown function, this was chosen so there wouldnt be any overlapping of content. The form size has also been adjusted to better fit the screen, the background image remains the same and centered throughout.
 
@@ -187,7 +187,7 @@ The Signup page has also been optimised for Mobile and Ipad screens, the content
 
 ## Responsive Layout
 
-The website has been designed to be simple and informative at first, but underneath the that it was also designed to be responsive and aesthetically pleasing to use. The goal was to provide a website that a user would run into no issues using, it has also been optimised for all screne sizes and resolutions. The smallest screen size being a Mobile screen starting from 350px, all pictures, content and animations are built to suit this. The images chosen has been optimsed and positioned on the screen for this specific screen size so that they fit in proportion, but also remain the main vocal points. The hero image is the main image, and this remains the main focal point when users first access the site, so the positioning was of most importance. A similar approach was taken to the backgroud image on the Contact Us page, it was important to make sure the form did not clash, and cause any visual confusion.
+The website has been designed to be simple and informative at first, but underneath the that it was also designed to be responsive and aesthetically pleasing to use. The goal was to provide a website that a user would run into no issues using, it has also been optimised for all screen sizes and resolutions. The smallest screen size being a Mobile screen starting from 350px, all pictures, content and animations are built to suit this. The images chosen has been optimsed and positioned on the screen for this specific screen size so that they fit in proportion, but also remain the main vocal points. The hero image is the main image, and this remains the main focal point when users first access the site, so the positioning was of most importance. A similar approach was taken to the backgroud image on the Contact Us page, it was important to make sure the form did not clash, and cause any visual confusion.
 
 The breakpoints on this website were chosen by researching the most popular devices, and their subsequent screen sizes. My results showed me an Iphone, Ipad and Desktop were most popular, and therefore the 350px, 768px and 1200px were used. However, 767px and below, and 992px and above were also used for single CSS commands due to particular features required within each of these breakpoints. The use of Flexbox and Grid layouts aided in keeping all content where it is supposed to be, and the transition between screen sizes seemlessly.
 
@@ -315,6 +315,8 @@ The design, concept and overall appearance of the website was designed by myself
 - 19th.webp is from [Edinburgh News](https://www.edinburghnews.scotsman.com/heritage-and-retro/heritage/edinburgh-in-1873-a-look-back-at-what-edinburgh-life-was-like-150-years-ago-4157837).
 
 ## Code
+
+
 
 ## Acknowledgements
 
