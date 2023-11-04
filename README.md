@@ -182,8 +182,8 @@ ADD IMAGE ONCE FIXED.
 
 The Signup page has also been optimised for Mobile and Ipad screens, the content remains the same but the positioning has been adjusted so that it does not interfere with the NavBar menu dropdown function, this was chosen so there wouldnt be any overlapping of content. The form size has also been adjusted to better fit the screen, the background image remains the same and centered throughout.
 
-![contact1](assets/images/readme/contact1.png)
-![contact2](assets/images/readme/contact2.png)
+![contact1](assets/images/readme/contact-1.png)
+![contact2](assets/images/readme/contact-2.png)
 
 ## Responsive Layout
 
