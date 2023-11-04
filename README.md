@@ -289,3 +289,21 @@ This project was deployed to Github pages, a step by step guide to deploy is as 
 6. Select the `root` in the dropdown menu to the right.
 7. Press `save`
 8. Finally a message should appear stating that the website is ready to be deployed, refresh the page, and the link should be available at the top of the page.
+
+# Credits
+
+## Content
+
+The design, concept and overall appearance of the website was designed by myself. I took inspiration from multiple other websites on the internet, including the content which was generated via ChatGPT. I chose to use ChatGPT for the content due to its ability to follow strict commands, and the preciseness of the content it generates, and for an informational website this was a key factor.
+
+## Media (Image Sources)
+
+## Code
+
+## Acknowledgements
+
+I would like to thank the Code Institute for providing easy to understand and follow mock-up Website, from this is was able to build out my own Website making sure it covered some of the main features required.
+
+I would like to thank my Tutor, Ronan McClelland, for the useful information and feedback during our 3 sessions.
+
+Finally would like to thank the Online Slack community, for always being there when i had issues i could not figure out on my own.
